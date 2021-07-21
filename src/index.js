@@ -9,7 +9,8 @@ class Apl extends React.Component{
     clients: [
       {id: 1, nom: "Julio"},
       {id: 2,nom:"Hazard"},
-      {id: 3,nom:"Halland"}
+      {id: 3,nom:"Halland"},
+      {id: 4,nom: "neuer"}
     ]
   }
   
